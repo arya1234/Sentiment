@@ -35,18 +35,10 @@ To run the code locally, follow these steps:
     git clone https://github.com/your-username/sentiment-analysis-twitter.git
     ```
 
-2. Install the required dependencies:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Open and run the Jupyter notebooks in the `code` folder.
+2. Open and run the Jupyter notebooks in the `code` folder.
 
 ## Contributing
 
 Contributions are welcome! If you have suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
