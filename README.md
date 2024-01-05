@@ -8,7 +8,6 @@ This repository contains code and documentation for sentiment analysis on Twitte
 3. [Presentation](#presentation)
 4. [Getting Started](#getting-started)
 5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Introduction
 
