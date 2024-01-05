@@ -1,17 +1,52 @@
-# Sentiment Analysis on Twitter Data using BERT and XLNet
+# Sentiment Analysis on Twitter Data
 
-In our pursuit of achieving superior sentiment analysis on Twitter data, we harnessed the power of state-of-the-art transformer models, specifically BERT and XLNet. Our objective was to outperform traditional supervised approaches and elevate the industry standard sentiment classification accuracy, which typically stood at 70%.
+This repository contains code and documentation for sentiment analysis on Twitter data using advanced transformer models such as BERT and XLNet. The project aims to surpass traditional supervised approaches and elevate sentiment classification accuracy.
 
-## APPROACH
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Code Files](#code-files)
+3. [Presentation](#presentation)
+4. [Getting Started](#getting-started)
+5. [Contributing](#contributing)
+6. [License](#license)
 
-We initiated our approach by implementing cutting-edge transformer models, BERT and XLNet, renowned for their prowess in understanding contextual information in textual data. These models allowed us to capture intricate sentiment nuances and surpass the limitations of traditional supervised methods.
+## Introduction
 
-Simultaneously, we employed advanced unsupervised techniques on a substantial dataset comprising 1,400,000 tweets. Leveraging these techniques, including topic modeling and clustering, we achieved an outstanding F1-Score of 93.5%. This signified our ability to discern sentiment patterns without relying on pre-labeled training data, providing flexibility and adaptability in our sentiment analysis.
+Sentiment analysis plays a crucial role in understanding public opinion on social media platforms. This project leverages state-of-the-art transformer models, specifically BERT and XLNet, to achieve superior sentiment analysis on Twitter data. The goal is to outperform traditional supervised methods and elevate the industry standard sentiment classification accuracy.
 
-## RESULT
+## Code Files
 
-Our meticulous approach yielded remarkable results, showcasing an 11.35% improvement over traditional supervised methods in sentiment classification accuracy. The fusion of BERT, XLNet, and advanced unsupervised techniques enabled us to attain an F1-Score of 93.5%, demonstrating our proficiency in capturing nuanced sentiment information.
+- [`code/BERT.ipynb`](code/BERT.ipynb): Jupyter notebook for sentiment analysis using BERT.
+- [`code/xlnet.ipynb`](code/xlnet.ipynb): Jupyter notebook for sentiment analysis using XLNet.
+- [`code/Project_Supervised_Group22.ipynb`](code/Project_Supervised_Group22.ipynb): Jupyter notebook for the supervised approach.
+- [`code/Project_UnSupervised_Group22.ipynb`](code/Project_UnSupervised_Group22.ipynb): Jupyter notebook for the unsupervised approach.
 
-Furthermore, our efforts were recognized in a Kaggle-based competition, where we secured a position within the Top 10. This acknowledgment highlighted the effectiveness of our approach in real-world scenarios, validating our commitment to excellence in sentiment analysis.
+## Presentation
 
-In conclusion, our strategy, blending the power of transformer models with advanced unsupervised techniques, not only surpassed industry standards but also earned us recognition in competitive environments. This success positions our approach as a robust solution for businesses seeking precise sentiment analysis on Twitter data, with applications extending to real-time monitoring and trend tracking on social media platforms.
+- [`PPT_Group22.pptx`](PPT_Group22.pptx): PowerPoint presentation summarizing the project.
+
+## Getting Started
+
+To run the code locally, follow these steps:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/your-username/sentiment-analysis-twitter.git
+    ```
+
+2. Install the required dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Open and run the Jupyter notebooks in the `code` folder.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
