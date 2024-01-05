@@ -16,9 +16,9 @@ Sentiment analysis plays a crucial role in understanding public opinion on socia
 ## Code Files
 
 - [`/BERT.ipynb`](/BERT.ipynb): Jupyter notebook for sentiment analysis using BERT.
-- [`code/xlnet.ipynb`](code/xlnet.ipynb): Jupyter notebook for sentiment analysis using XLNet.
-- [`code/Project_Supervised_Group22.ipynb`](code/Project_Supervised_Group22.ipynb): Jupyter notebook for the supervised approach.
-- [`code/Project_UnSupervised_Group22.ipynb`](code/Project_UnSupervised_Group22.ipynb): Jupyter notebook for the unsupervised approach.
+- [`/xlnet.ipynb`](xlnet.ipynb): Jupyter notebook for sentiment analysis using XLNet.
+- [`/Project_Supervised_Group22.ipynb`](/Project_Supervised_Group22.ipynb): Jupyter notebook for the supervised approach.
+- [`/Project_UnSupervised_Group22.ipynb`](/Project_UnSupervised_Group22.ipynb): Jupyter notebook for the unsupervised approach.
 
 ## Presentation
 
