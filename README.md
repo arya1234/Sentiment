@@ -1,6 +1,6 @@
 # User Behaviour Analysis on Twitter Data
 
-This repository contains code and documentation for sentiment analysis on Twitter data using advanced transformer models such as BERT and XLNet. The project aims to surpass traditional supervised approaches and elevate sentiment classification accuracy.
+This repository contains code and documentation for behaviour analysis on Twitter data using advanced transformer models such as BERT and XLNet. The project aims to surpass traditional supervised approaches and elevate classification accuracy.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -11,12 +11,12 @@ This repository contains code and documentation for sentiment analysis on Twitte
 
 ## Introduction
 
-Sentiment analysis plays a crucial role in understanding public opinion on social media platforms. This project leverages state-of-the-art transformer models, specifically BERT and XLNet, to achieve superior sentiment analysis on Twitter data. The goal is to outperform traditional supervised methods and elevate the industry standard sentiment classification accuracy.
+Behaviour analysis plays a crucial role in understanding public opinion on social media platforms. This project leverages state-of-the-art transformer models, specifically BERT and XLNet, to achieve superior behaviour analysis on Twitter data. The goal is to outperform traditional supervised methods and elevate the industry standard Behaviour classification accuracy.
 
 ## Code Files
 
-- [`/BERT.ipynb`](/BERT.ipynb): Jupyter notebook for sentiment analysis using BERT.
-- [`/xlnet.ipynb`](xlnet.ipynb): Jupyter notebook for sentiment analysis using XLNet.
+- [`/BERT.ipynb`](/BERT.ipynb): Jupyter notebook for Behaviour analysis using BERT.
+- [`/xlnet.ipynb`](xlnet.ipynb): Jupyter notebook for Behaviour analysis using XLNet.
 - [`/Project_Supervised_Group22.ipynb`](/Project_Supervised_Group22.ipynb): Jupyter notebook for the supervised approach.
 - [`/Project_UnSupervised_Group22.ipynb`](/Project_UnSupervised_Group22.ipynb): Jupyter notebook for the unsupervised approach.
 
@@ -31,7 +31,7 @@ To run the code locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/sentiment-analysis-twitter.git
+    git clone https://github.com/your-username/Behaviour-analysis-twitter.git
     ```
 
 
