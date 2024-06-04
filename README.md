@@ -1,4 +1,4 @@
-# Sentiment Analysis on Twitter Data
+# User Behaviour Analysis on Twitter Data
 
 This repository contains code and documentation for sentiment analysis on Twitter data using advanced transformer models such as BERT and XLNet. The project aims to surpass traditional supervised approaches and elevate sentiment classification accuracy.
 
